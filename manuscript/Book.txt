@@ -3,30 +3,15 @@ mainmatter:
   version.md
   foreword.md
 
-  GameTheory/README.md
-  GameTheory/history.md
-  GameTheory/basics.md
-  GameTheory/game-representations.md
-  GameTheory/summary.md
-
-  ArtificialIntelligence/README.md
-  ArtificialIntelligence/history.md
-  ArtificialIntelligence/intelligent-agent.md
-  ArtificialIntelligence/formal-logic.md
-  ArtificialIntelligence/classical-search.md
-  ArtificialIntelligence/adversarial-search.md
-  ArtificialIntelligence/machine-learning.md
-  ArtificialIntelligence/summary.md
-
-  Chess/README.md
-  Chess/game-theory.md
-  Chess/chess-theory.md
-  Chess/psychology.md
-  Chess/ai-theory.md
-  Chess/chess-programs-history.md
-  Chess/modern-chess-engines.md
-  Chess/man-vs-ai.md
-
+  MicroControl/README.md
+  MicroControl/concepts.md
+  
+  LaningPhase/README.md
+  LaningPhase/concepts.md
+  
+  MacroPlay/README.md
+  MacroPlay/concepts.md
+  
   finalwords.md
 
   appendix.md
