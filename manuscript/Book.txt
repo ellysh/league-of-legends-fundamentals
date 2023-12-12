@@ -3,6 +3,9 @@ mainmatter:
   version.md
   foreword.md
 
+  Training/README.md
+  Training/concepts.md
+
   MicroControl/README.md
   MicroControl/concepts.md
 
