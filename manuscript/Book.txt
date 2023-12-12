@@ -5,13 +5,13 @@ mainmatter:
 
   MicroControl/README.md
   MicroControl/concepts.md
-  
+
   LaningPhase/README.md
   LaningPhase/concepts.md
-  
+
   MacroPlay/README.md
   MacroPlay/concepts.md
-  
+
   finalwords.md
 
   appendix.md
