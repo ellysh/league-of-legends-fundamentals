@@ -2,17 +2,16 @@ mainmatter:
 
   foreword.md
 
-  Training/README.md
-  Training/concepts.md
+  Theory/README.md
+  Theory/basic-concepts.md
 
-  MicroControl/README.md
-  MicroControl/concepts.md
+  Practice/README.md
+  Practice/laning.md
+  Practice/micro.md
+  Practice/macro.md
 
-  LaningPhase/README.md
-  LaningPhase/concepts.md
-
-  MacroPlay/README.md
-  MacroPlay/concepts.md
+  Learning/README.md
+  Learning/psychology.md
 
   finalwords.md
 
