@@ -1,6 +1,5 @@
 mainmatter:
 
-  version.md
   foreword.md
 
   Training/README.md
@@ -19,3 +18,4 @@ mainmatter:
 
   glossary.md
   links.md
+  version.md
