@@ -2,8 +2,8 @@
 
 # L
 
-Lose streak — серия партий, каждая из которых закончилась поражением.
+[**Losing streak**](https://en.wikipedia.org/wiki/Losing_streak) — серия партий, каждая из которых закончилась поражением.
 
 # W
 
-Win streak — серия партий, каждая из которых закончилась победой.
+[**Winning streak**](https://en.wikipedia.org/wiki/Winning_streak) — серия партий, каждая из которых закончилась победой.
