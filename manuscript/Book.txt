@@ -2,6 +2,9 @@ mainmatter:
 
   foreword.md
 
+  Psychology/README.md
+  Psychology/game.md
+
   Theory/README.md
   Theory/basic-concepts.md
 
