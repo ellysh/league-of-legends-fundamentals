@@ -9,12 +9,6 @@ mainmatter:
   Theory/basic-concepts.md
 
   Practice/README.md
-  Practice/laning.md
-  Practice/micro.md
-  Practice/macro.md
-
-  Learning/README.md
-  Learning/psychology.md
 
   finalwords.md
 
