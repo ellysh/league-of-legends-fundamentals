@@ -3,7 +3,8 @@ mainmatter:
   foreword.md
 
   Psychology/README.md
-  Psychology/game.md
+  Psychology/randomness-and-emotions.md
+  Psychology/expert-training.md
 
   Theory/README.md
   Theory/basic-concepts.md
