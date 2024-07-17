@@ -8,6 +8,7 @@ mainmatter:
 
   Theory/README.md
   Theory/basic-concepts.md
+  Theory/economy.md
 
   Practice/README.md
 
