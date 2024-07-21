@@ -11,9 +11,10 @@ mainmatter:
   Theory/economy.md
 
   Practice/README.md
-  Practice/wave-management.md
-  Practice/general-templates.md
   Practice/micromanagement.md
+  Practice/laning.md
+  Practice/jungle.md
+  Practice/macromanagement.md
   Practice/teamfight.md
 
   finalwords.md
