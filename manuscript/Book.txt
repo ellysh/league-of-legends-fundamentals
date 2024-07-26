@@ -9,6 +9,7 @@ mainmatter:
   Theory/README.md
   Theory/basic-concepts.md
   Theory/economy.md
+  Theory/fight.md
 
   Practice/README.md
   Practice/micromanagement.md
