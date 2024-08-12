@@ -16,6 +16,8 @@
 
 ### 6.2.1 На русском языке
 
+Аудиокнига ["Играй на победу"](https://www.youtube.com/watch?v=XWvf1JLDk5M) Дэвид Сирлин.
+
 Youtube канал с гайдами ["Лига Легенд от Зака"](https://www.youtube.com/@DarthZak).
 
 [Терминология League of Legends](https://leagueoflegends.fandom.com/ru/wiki/Терминология_(League_of_Legends))
