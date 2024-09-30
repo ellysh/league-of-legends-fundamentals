@@ -11,12 +11,10 @@ mainmatter:
   Theory/economy.md
   Theory/fight.md
 
-  Practice/README.md
-  Practice/micromanagement.md
-  Practice/laning.md
-  Practice/jungle.md
-  Practice/macromanagement.md
-  Practice/teamfight.md
+  Micromanagement/README.md
+  Micromanagement/attack-animation.md
+  Micromanagement/abilities-animation.md
+  Micromanagement/positioning.md
 
   finalwords.md
 
