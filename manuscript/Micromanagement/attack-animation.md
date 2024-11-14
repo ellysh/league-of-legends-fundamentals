@@ -170,10 +170,10 @@
 
 Рассмотрим самый эффективный способ исполнения техники attack move. Для этого надо изменить настройки игры и горячих клавиш.
 
-Первая настройка находится во вкладке "HOTKEYS" и называется "Player attack move click". Её демонстрирует иллюстрация 3-3
+Первая настройка находится во вкладке "HOTKEYS" и называется "Player Attack Move Click". Её демонстрирует иллюстрация 3-3
 
-{caption: "Иллюстрация 3-3. Настройка 'Player attack move click'", height: "50%"}
-![Настройка Player attack move click](images/Micromanagement/options-player-attack-move-click.png)
+{caption: "Иллюстрация 3-3. Настройка 'Player Attack Move Click'", height: "50%"}
+![Настройка Player Attack Move Click](images/Micromanagement/options-player-attack-move-click.png)
 
 Это горячая клавиша для команды на автоатаку. Назначьте для неё клавишу A. Тогда каждый раз, когда вы нажимаете A, чемпион будет атаковать ближайшую к нему цель.
 
