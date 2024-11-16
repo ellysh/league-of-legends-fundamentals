@@ -16,6 +16,9 @@ mainmatter:
   Micromanagement/abilities-animation.md
   Micromanagement/positioning.md
 
+  Macromanagement/README.md
+  Macromanagement/wave-management.md
+
   finalwords.md
 
   glossary.md
