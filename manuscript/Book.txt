@@ -18,6 +18,7 @@ mainmatter:
 
   Macromanagement/README.md
   Macromanagement/wave-management.md
+  Macromanagement/objectives.md
 
   finalwords.md
 
