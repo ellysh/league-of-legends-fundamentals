@@ -16,11 +16,15 @@
 
 ### 7.2.1 На русском языке
 
-Аудиокнига ["Играй на победу"](https://www.youtube.com/watch?v=XWvf1JLDk5M) Дэвид Сирлин.
-
 Youtube канал с гайдами ["Лига Легенд от Зака"](https://www.youtube.com/@DarthZak).
 
 [Терминология League of Legends](https://leagueoflegends.fandom.com/ru/wiki/Терминология_(League_of_Legends))
+
+[Playlist с коучинг сессиями](https://www.youtube.com/@maxstarving1615) для игрока MaxStarving.
+
+[Twitch канал](https://www.twitch.tv/kprlol) сильного русскоговорящего топлейнера Kopr, который проводит коучи.
+
+[Twitch канал](https://www.twitch.tv/oleg_insec) профессионального игрока в лесу OlegInsec, который проводит коучи.
 
 ### 7.2.2 На английском языке
 
