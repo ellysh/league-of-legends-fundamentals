@@ -19,6 +19,7 @@ mainmatter:
   Macromanagement/README.md
   Macromanagement/wave-management.md
   Macromanagement/map-control.md
+  Macromanagement/draft-and-builds.md
 
   finalwords.md
 
