@@ -39,3 +39,11 @@ Youtube канал с гайдами ["Skill Capped Challenger LoL Guides"](http
 Youtube канал ["domisumReplay"](https://www.youtube.com/@domisumReplay) с реплеями лучших игроков на каждом чемпионе.
 
 [Терминология League of Legends](https://leagueoflegends.fandom.com/wiki/Terminology_(League_of_Legends))
+
+Сайт [lolalytics.com](https://lolalytics.com) со статистикой для текущего патча.
+
+Сайт [blitz.gg](https://blitz.gg/lol) со статистикой для текущего патча.
+
+Сайт [www.leagueofgraphs.com](https://www.leagueofgraphs.com) со статистикой для текущего патча.
+
+Сайт [www.op.gg](https://www.op.gg) со статистикой для текущего патча.
