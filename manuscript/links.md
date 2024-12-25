@@ -46,4 +46,4 @@ Youtube канал ["domisumReplay"](https://www.youtube.com/@domisumReplay) с 
 
 Сайт [www.leagueofgraphs.com](https://www.leagueofgraphs.com) со статистикой для текущего патча.
 
-Сайт [www.op.gg](https://www.op.gg) со статистикой для текущего патча.
+Сайт [u.gg](https://u.gg) со статистикой для текущего патча.
