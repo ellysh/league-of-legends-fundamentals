@@ -379,13 +379,15 @@ I> Типичные пары заклинания зависят от балан
 
 1. [**Blade of the Ruined King**](https://leagueoflegends.fandom.com/wiki/Blade_of_the_Ruined_King) (BoRK) — собирают чемпионы с умениями, которые увеличивают скорость атаки или имеют эффект attack reset. Примеры: Vayne, Kog'Maw, Twitch, Kalista, Yasuo, Yone.
 
-2. [**Kraken Slayer**](https://leagueoflegends.fandom.com/wiki/Kraken_Slayer) — собирают чемпионы, у которых мало своей скорости атаки, но она их хорошо усиливает. При этом они идут в сборку на **critical damage** (критический урон), а не **on-hit** (эффект при попадании). Примеры: Jinx, Ashe.
+2. [**Kraken Slayer**](https://leagueoflegends.fandom.com/wiki/Kraken_Slayer) — собирают, когда нужна дополнительная мобильность. Она может понадобиться из-за ограничений самого чемпиона, сложившегося матчапа или для усиления мобильности от умений. Дальше можно собирать сборку как на **critical damage** (критический урон), так и на **on-hit** (эффект при попадании). Примеры чемпионов: Jinx, Ashe, Vayne, Yasuo, Yone.
 
-3. [**Yun Tal**](https://leagueoflegends.fandom.com/wiki/Yun_Tal_Wildarrows) — хорошая альтернатива Kraken Slayer для чемпионов, которым важно собрать высокий процент critical damage как можно раньше. Примеры: Caitlyn, Tristana.
+3. [**Statikk Shiv**](https://leagueoflegends.fandom.com/wiki/Statikk_Shiv) — решает две проблемы: позволяет быстрее забирать волну миньонов и даёт дополнительный poke по противнику. Его собирают чемпионы, которым не хватает первого или второго. Примеры: Vayne, Zeri, Kai'Sa.
 
-4. [**Essence Reaver**](https://leagueoflegends.fandom.com/wiki/Essence_Reaver) — собирают чемпионы, которые наносят основной урон умениями и сильно зависят от маны. Примеры: Lucian, Sivir, Xayah, Smolder.
+4. [**Yun Tal**](https://leagueoflegends.fandom.com/wiki/Yun_Tal_Wildarrows) — хорошая альтернатива Kraken Slayer для чемпионов, которым важно собрать высокий процент critical damage как можно раньше. Примеры: Caitlyn, Tristana.
 
-5. [**Collector**](https://leagueoflegends.fandom.com/wiki/The_Collector) — для чемпионов, урон которых мало зависит от скорости атаки. Примеры: Caitlyn, Samira, Aphelios, Jhin.
+5. [**Essence Reaver**](https://leagueoflegends.fandom.com/wiki/Essence_Reaver) — собирают чемпионы, которые наносят основной урон умениями и сильно зависят от маны. Примеры: Lucian, Sivir, Xayah, Smolder.
+
+6. [**Collector**](https://leagueoflegends.fandom.com/wiki/The_Collector) — для чемпионов, урон которых мало зависит от скорости атаки. Примеры: Caitlyn, Samira, Aphelios, Jhin.
 
 Из транзитных предметов чаще всего покупаются следующие:
 
@@ -510,7 +512,7 @@ AP Carry без необходимости в мане покупают след
 
 ### 4.3.4.3 Предметы для класса Tank
 
->>>
+>>>>
 
 ### 4.3.4.4 Предметы для класса Assassin
 
