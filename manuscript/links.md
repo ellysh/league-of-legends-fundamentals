@@ -47,3 +47,5 @@ Youtube канал ["domisumReplay"](https://www.youtube.com/@domisumReplay) с 
 Сайт [www.leagueofgraphs.com](https://www.leagueofgraphs.com) со статистикой для текущего патча.
 
 Сайт [u.gg](https://u.gg) со статистикой для текущего патча.
+
+Сайт [rankedboost.com](https://rankedboost.com/league-of-legends/item/deaths-dance/) со статистикой по покупке предметов.
