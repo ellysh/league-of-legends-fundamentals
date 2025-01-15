@@ -3,7 +3,7 @@ mainmatter:
   foreword.md
 
   Psychology/README.md
-  Psychology/randomness-and-emotions.md
+  Psychology/game-and-emotions.md
   Psychology/expert-training.md
 
   Theory/README.md
