@@ -9,5 +9,4 @@
 ## Ссылки
 
 * [Читать или загрузить с Leanpub](https://leanpub.com/league-of-legends-fundamentals)
-
 * [Связь с автором](mailto:petrsum@gmail.com)
