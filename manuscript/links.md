@@ -22,7 +22,7 @@ Youtube канал с гайдами ["Лига Легенд от Зака"](htt
 
 [Playlist с коучинг сессиями](https://www.youtube.com/@maxstarving1615) для игрока MaxStarving.
 
-[Twitch канал](https://www.twitch.tv/kprlol) сильного русскоговорящего топлейнера Kopr, который проводит коучи.
+[Twitch канал](https://www.twitch.tv/kprlol) сильного русскоговорящего топлейнера Kopr.
 
 [Twitch канал](https://www.twitch.tv/oleg_insec) профессионального игрока в лесу Oleg, который проводит коучи.
 
