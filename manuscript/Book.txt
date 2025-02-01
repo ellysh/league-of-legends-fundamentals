@@ -20,6 +20,7 @@ mainmatter:
   Macromanagement/wave-management.md
   Macromanagement/map-control.md
   Macromanagement/draft.md
+  Macromanagement/jungle-tracking.md
 
   finalwords.md
 
