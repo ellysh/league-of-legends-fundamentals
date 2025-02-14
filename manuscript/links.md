@@ -51,3 +51,5 @@ Youtube канал ["domisumReplay"](https://www.youtube.com/@domisumReplay) с 
 Сайт [rankedboost.com](https://rankedboost.com/league-of-legends/item/deaths-dance/) со статистикой по покупке предметов.
 
 Сайт [gol.gg](https://gol.gg/esports/home/) со статистикой по профессиональным матчам.
+
+[Документ и видео](https://docs.google.com/spreadsheets/d/1jE8bnlnIJnmWv9pnVW9veMKRXJNaaJf5tneQB3xUkbI/edit?pli=1&gid=0#gid=0) с оптимальными jungle path для каждого лесника.
