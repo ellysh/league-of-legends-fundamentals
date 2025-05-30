@@ -504,7 +504,7 @@ tempo = champion power / distance from objective
 Формула для расчёта силы чемпиона выглядит так:
 {line-numbers: false, format: text}
 ```
-power = resources * (stats + items + cooldowns)
+champion power = resources * (stats + items + cooldowns)
 ```
 
 Обратите внимание, что resources — это множитель. Другими словами, здоровье и мана являются определяющим фактором. На низком уровне здоровья у чемпиона нет темпа, независимо от остальных его характеристик.
