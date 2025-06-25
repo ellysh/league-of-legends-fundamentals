@@ -22,15 +22,17 @@ Youtube канал с гайдами ["Лига Легенд от Зака"](htt
 
 [Playlist с коучинг сессиями](https://www.youtube.com/@maxstarving1615) для игрока MaxStarving.
 
-[Twitch канал](https://www.twitch.tv/kprlol) сильного русскоговорящего топлейнера Kopr.
-
 [Twitch канал](https://www.twitch.tv/oleg_insec) профессионального игрока в лесу Oleg, который проводит коучи.
 
 ### 7.2.2 На английском языке
 
+#### 7.2.2.1 Гайды
+
 Youtube канал с гайдами ["Skill Capped Challenger LoL Guides"](https://www.youtube.com/@skillcapped).
 
-[Youtube канал с гайдами](https://www.youtube.com/@CoachChippys/videos) от CoachChippys.
+[Youtube канал с гайдами](https://www.youtube.com/@CoachChippys) от CoachChippys.
+
+[Youtube канал с гайдами](https://www.youtube.com/@CoachRogue) от CoachRogue.
 
 [Playlist с коучинг сессиями](https://www.youtube.com/watch?v=fJ-C4PEk-9Y&list=PLO-puISV1uJLhELuQ1ad3ayP5A53OMgkB) от киберспортсмена Bwipo.
 
@@ -38,7 +40,11 @@ Youtube канал с гайдами ["Skill Capped Challenger LoL Guides"](http
 
 Youtube канал ["domisumReplay"](https://www.youtube.com/@domisumReplay) с реплеями лучших игроков на каждом чемпионе.
 
+[Документ и видео](https://docs.google.com/spreadsheets/d/1jE8bnlnIJnmWv9pnVW9veMKRXJNaaJf5tneQB3xUkbI/edit?pli=1&gid=0#gid=0) с оптимальными jungle path для каждого лесника.
+
 [Терминология League of Legends](https://leagueoflegends.fandom.com/wiki/Terminology_(League_of_Legends))
+
+#### 7.2.2.2 Статистика
 
 Сайт [lolalytics.com](https://lolalytics.com) со статистикой для текущего патча.
 
@@ -52,6 +58,14 @@ Youtube канал ["domisumReplay"](https://www.youtube.com/@domisumReplay) с 
 
 Сайт [gol.gg](https://gol.gg/esports/home/) со статистикой по профессиональным матчам.
 
-[Документ и видео](https://docs.google.com/spreadsheets/d/1jE8bnlnIJnmWv9pnVW9veMKRXJNaaJf5tneQB3xUkbI/edit?pli=1&gid=0#gid=0) с оптимальными jungle path для каждого лесника.
+#### 7.2.2.3 Тренажёры
 
-[Набор бесплатных игр](https://loldodgegame.com/choose_game) для тренировки микроменеджмента в League of Legends.
+Программа [Skill Gap](https://skillgap.pro/) с набором тренировочных режимов для микро.
+
+Сайт [loldodgegame.com](https://loldodgegame.com/choose_game) с тренировочными режимами для микро.
+
+Игра [Don’t Tap](https://www.donttap.com/) на точность нажатий мыши.
+
+[Тренажёр для APM](https://www.arealme.com/apm-actions-per-minute-test/ru/).
+
+[Тренажёр на точность нажатий мыши](https://mouseaccuracy.com/).
