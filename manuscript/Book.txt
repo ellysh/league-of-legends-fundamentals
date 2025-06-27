@@ -21,6 +21,7 @@ mainmatter:
   Macromanagement/game-theory.md
   Macromanagement/map-control.md
   Macromanagement/draft.md
+  Macromanagement/build.md
   Macromanagement/jungle-tracking.md
 
   finalwords.md
