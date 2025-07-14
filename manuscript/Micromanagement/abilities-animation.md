@@ -105,9 +105,9 @@
 
 Большинство умений типа модификатор автоатаки имеют два свойства:
 
-1. **Сброс таймера автоатаки** ([basic attack reset](https://leagueoflegends.fandom.com/wiki/Basic_attack#Resets))
+1. **Сброс таймера автоатаки** ([basic attack reset](https://wiki.leagueoflegends.com/en-us/Basic_attack#Resets))
 
-2. **Неотменяемый windup** ([uncancellable windup](https://leagueoflegends.fandom.com/wiki/Basic_attack#Uncancellable_Windup)).
+2. **Неотменяемый windup** ([uncancellable windup](https://wiki.leagueoflegends.com/en-us/Basic_attack#Uncancellable_Windup)).
 
 На этих свойствах строится работа с анимацией умения. Первое позволяет увеличить DPS чемпиона. Второе — сменить позицию перед фазой firing усиленной автоатаки.
 
@@ -458,7 +458,7 @@ I> Есть более сложный вариант комбо Ezreal R-F. Ег
 
 В этом умении фаза windup заменяется на channel (зарядка). Всего фаз анимации четыре: windup (channel), charged, firing и recovery. Вторая фаза charged наступает, когда чемпион полностью зарядит умение. Её можно пропустить, если начать firing до окончания зарядки.
 
-Умение Vi Q не имеет свойства lockout move (блокировка передвижения). Свойство [**lockout**](https://leagueoflegends.fandom.com/wiki/Terminology_(League_of_Legends)#Lockout) (блокировка) запрещает чемпиону выполнять определённые действия на фазе windup умения. **Lockout move** запрещает чемпиону перемещаться.
+Умение Vi Q не имеет свойства lockout move (блокировка передвижения). Свойство [**lockout**](https://wiki.leagueoflegends.com/en-us/Terminology#Lockout) (блокировка) запрещает чемпиону выполнять определённые действия на фазе windup умения. **Lockout move** запрещает чемпиону перемещаться.
 
 Теперь рассмотрим **атакующее комбо Vi Q-F**. Иллюстрация 3-20 демонстрирует его временную диаграмму.
 

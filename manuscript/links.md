@@ -42,7 +42,7 @@ Youtube канал ["domisumReplay"](https://www.youtube.com/@domisumReplay) с 
 
 [Документ и видео](https://docs.google.com/spreadsheets/d/1jE8bnlnIJnmWv9pnVW9veMKRXJNaaJf5tneQB3xUkbI/edit?pli=1&gid=0#gid=0) с оптимальными jungle path для каждого лесника.
 
-[Терминология League of Legends](https://leagueoflegends.fandom.com/wiki/Terminology_(League_of_Legends))
+[Терминология League of Legends](https://wiki.leagueoflegends.com/en-us/Terminology)
 
 #### 7.2.2.2 Статистика
 
