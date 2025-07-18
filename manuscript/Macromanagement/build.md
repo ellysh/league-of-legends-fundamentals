@@ -123,7 +123,7 @@ https://wiki.leagueoflegends.com/en-us/Gold_efficiency
 
 #### 4.5.1.2 Красная ветка Domination
 
->>>>W
+>>>W
 
 Иллюстрация 4-27 демонстрирует ветку рун Domination.
 
@@ -181,6 +181,8 @@ I> Подробнее руны красной ветки разбирает Oleg
 ![Планы и ветка Domination](images/Macromanagement/domination-runes-plans.png)
 
 #### 4.5.1.3 Синяя ветка Sorcery
+
+>>>W
 
 Ветка Sorcery:
 
