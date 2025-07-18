@@ -58,6 +58,8 @@ Youtube канал ["domisumReplay"](https://www.youtube.com/@domisumReplay) с 
 
 Сайт [gol.gg](https://gol.gg/esports/home/) со статистикой по профессиональным матчам.
 
+Сайт [leagueofitems.com](https://leagueofitems.com/runes/8224) со статистикой, какие чемпионы чаще берут указанный предмет или руну.
+
 #### 7.2.2.3 Тренажёры
 
 Программа [Skill Gap](https://skillgap.pro/) с набором тренировочных режимов для микро.
