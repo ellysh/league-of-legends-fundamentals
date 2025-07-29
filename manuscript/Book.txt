@@ -20,10 +20,12 @@ mainmatter:
   Macromanagement/wave-management.md
   Macromanagement/game-theory.md
   Macromanagement/map-control.md
-  Macromanagement/draft.md
-  Macromanagement/build-runes.md
-  Macromanagement/build-items.md
   Macromanagement/jungle-tracking.md
+
+  Champions/README.md
+  Champions/draft.md
+  Champions/runes-and-spells.md
+  Champions/items.md
 
   finalwords.md
 
