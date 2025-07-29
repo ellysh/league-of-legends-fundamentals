@@ -1,20 +1,20 @@
-# 7 Ссылки на ресурсы
+# 8 Ссылки на ресурсы
 
-## 7.1 Психология
+## 8.1 Психология
 
-### 7.1.1 На русском языке
+### 8.1.1 На русском языке
 
 Книга ["Думай медленно решай быстро"](https://www.litres.ru/daniel-kaneman/dumay-medlenno-reshay-bystro) Даниэль Канеман.
 
 Книга ["Сила воли. Возьми свою жизнь под контроль"](https://en.wikipedia.org/wiki/Willpower:_Rediscovering_the_Greatest_Human_Strength) Рой Баумайстер, Джон Тирни.
 
-### 7.1.2 На английском языке
+### 8.1.2 На английском языке
 
 Статья ["The Role of Deliberate Practice in the Acquisition of Expert Performance"](https://graphics8.nytimes.com/images/blogs/freakonomics/pdf/DeliberatePractice(PsychologicalReview).pdf) Андерс Эрикссон.
 
-## 7.2 League of Legends
+## 8.2 League of Legends
 
-### 7.2.1 На русском языке
+### 8.2.1 На русском языке
 
 Youtube канал с гайдами ["Лига Легенд от Зака"](https://www.youtube.com/@DarthZak).
 
@@ -24,9 +24,9 @@ Youtube канал с гайдами ["Лига Легенд от Зака"](htt
 
 [Twitch канал](https://www.twitch.tv/oleg_insec) профессионального игрока в лесу Oleg, который проводит коучи.
 
-### 7.2.2 На английском языке
+### 8.2.2 На английском языке
 
-#### 7.2.2.1 Гайды
+#### 8.2.2.1 Гайды
 
 Youtube канал с гайдами ["Skill Capped Challenger LoL Guides"](https://www.youtube.com/@skillcapped).
 
@@ -44,7 +44,7 @@ Youtube канал ["domisumReplay"](https://www.youtube.com/@domisumReplay) с 
 
 [Терминология League of Legends](https://wiki.leagueoflegends.com/en-us/Terminology)
 
-#### 7.2.2.2 Статистика
+#### 8.2.2.2 Статистика
 
 Сайт [lolalytics.com](https://lolalytics.com) со статистикой для текущего патча.
 
@@ -60,7 +60,7 @@ Youtube канал ["domisumReplay"](https://www.youtube.com/@domisumReplay) с 
 
 Сайт [leagueofitems.com](https://leagueofitems.com/runes/8224) со статистикой, какие чемпионы чаще берут указанный предмет или руну.
 
-#### 7.2.2.3 Тренажёры
+#### 8.2.2.3 Тренажёры
 
 Программа [Skill Gap](https://skillgap.pro/) с набором тренировочных режимов для микро.
 
