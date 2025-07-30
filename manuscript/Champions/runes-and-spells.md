@@ -62,7 +62,7 @@ I> В начале сезона разработчики часто меняют
 Иллюстрация 5-1 демонстрирует ветку рун Precision.
 
 {caption: "Иллюстрация 5-1. Ветка рун Precision", width: "100%"}
-![Ветка рун Precision](images/Macromanagement/precision-runes-tree.png)
+![Ветка рун Precision](images/Champions/precision-runes-tree.png)
 
 Эта ветка имеет следующие keystone руны:
 
@@ -111,7 +111,7 @@ I> Подробнее руны жёлтой ветки разбирает про
 Таблица 5-1 демонстрирует, какие руны подходят для разных планов на лейнинг.
 
 {caption: "Таблица 5-1. Руны ветки Precision для планов на лейнинг", width: "100%"}
-![Планы и ветка Precision](images/Macromanagement/precision-runes-plans.png)
+![Планы и ветка Precision](images/Champions/precision-runes-plans.png)
 
 Это концептуальная таблица. Выбор конкретных рун зависит от чемпиона, матчапа, драфта и текущего баланса. Некоторые руны могут быть чрезмерно ослаблены в текущем патче. Тогда их нет смысла выбирать, даже если они теоретически работают для вашего плана. Намного выгоднее будет выбрать руну с лучшей эффективностью по золоту.
 
@@ -126,7 +126,7 @@ https://wiki.leagueoflegends.com/en-us/Gold_efficiency
 Иллюстрация 5-2 демонстрирует ветку рун Domination.
 
 {caption: "Иллюстрация 5-2. Ветка рун Domination", width: "100%"}
-![Ветка рун Domination](images/Macromanagement/domination-runes-tree.png)
+![Ветка рун Domination](images/Champions/domination-runes-tree.png)
 
 Эта ветка имеет следующие keystone руны:
 
@@ -176,7 +176,7 @@ I> Подробнее руны красной ветки разбирает Oleg
 Таблица 5-2 демонстрирует, какие руны подходят для разных планов на лейнинг.
 
 {caption: "Таблица 5-2. Руны ветки Domination для планов на лейнинг", width: "100%"}
-![Планы и ветка Domination](images/Macromanagement/domination-runes-plans.png)
+![Планы и ветка Domination](images/Champions/domination-runes-plans.png)
 
 ### 5.2.4 Синяя ветка Sorcery
 
@@ -185,7 +185,7 @@ I> Подробнее руны красной ветки разбирает Oleg
 Иллюстрация 5-3 демонстрирует ветку рун Sorcery.
 
 {caption: "Иллюстрация 5-3. Ветка рун Sorcery", width: "100%"}
-![Ветка рун Sorcery](images/Macromanagement/sorcery-runes-tree.png)
+![Ветка рун Sorcery](images/Champions/sorcery-runes-tree.png)
 
 Эта ветка имеет следующие keystone руны:
 
@@ -248,7 +248,7 @@ I> Подробнее руны синей ветки разбирает проф
 Таблица 5-3 демонстрирует, какие руны подходят для разных планов на лейнинг.
 
 {caption: "Таблица 5-3. Руны ветки Sorcery для планов на лейнинг", width: "100%"}
-![Планы и ветка Sorcery](images/Macromanagement/sorcery-runes-plans.png)
+![Планы и ветка Sorcery](images/Champions/sorcery-runes-plans.png)
 
 ### 5.2.5 Зелёная ветка Resolve
 
@@ -257,7 +257,7 @@ I> Подробнее руны синей ветки разбирает проф
 Иллюстрация 5-4 демонстрирует ветку рун Resolve.
 
 {caption: "Иллюстрация 5-4. Ветка рун Resolve", width: "100%"}
-![Ветка рун Resolve](images/Macromanagement/resolve-runes-tree.png)
+![Ветка рун Resolve](images/Champions/resolve-runes-tree.png)
 
 Эта ветка имеет следующие keystone руны:
 
@@ -332,7 +332,7 @@ I> Подробнее руны зелёной ветки разбирает пр
 Таблица 5-4 демонстрирует, какие руны подходят для разных планов на лейнинг.
 
 {caption: "Таблица 5-4. Руны ветки Resolve для планов на лейнинг", width: "100%"}
-![Планы и ветка Resolve](images/Macromanagement/resolve-runes-plans.png)
+![Планы и ветка Resolve](images/Champions/resolve-runes-plans.png)
 
 ### 5.2.6 Бирюзовая ветка Inspiration
 
@@ -341,7 +341,7 @@ I> Подробнее руны зелёной ветки разбирает пр
 Иллюстрация 5-5 демонстрирует ветку рун Inspiration.
 
 {caption: "Иллюстрация 5-5. Ветка рун Inspiration", width: "100%"}
-![Ветка рун Inspiration](images/Macromanagement/inspiration-runes-tree.png)
+![Ветка рун Inspiration](images/Champions/inspiration-runes-tree.png)
 
 Эта ветка имеет следующие keystone руны:
 
@@ -402,7 +402,7 @@ I> Подробнее руны бирюзовой ветки разбирает 
 Таблица 5-5 демонстрирует, какие руны подходят для разных планов на лейнинг.
 
 {caption: "Таблица 5-5. Руны ветки Inspiration для планов на лейнинг", width: "100%"}
-![Планы и ветка Inspiration](images/Macromanagement/inspiration-runes-plans.png)
+![Планы и ветка Inspiration](images/Champions/inspiration-runes-plans.png)
 
 
 ### 5.2.7 Пример выбора рун
