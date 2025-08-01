@@ -346,7 +346,7 @@ I> **Драфт** (draft) — это предварительная стадия
 
 1. Assassin (Talon, Kayn, Kha'Zix).
 
-2. Melee AD Carry (Yone, Tryndameere).
+2. Melee AD Carry (Yone, Tryndamere).
 
 3. Light Bruiser (Riven, Jax).
 
