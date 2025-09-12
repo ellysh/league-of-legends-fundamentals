@@ -20,7 +20,7 @@ mainmatter:
   Macromanagement/wave-management.md
   Macromanagement/game-theory.md
   Macromanagement/map-control.md
-  Macromanagement/jungle-tracking.md
+  Macromanagement/jungle-role.md
 
   Champions/README.md
   Champions/draft.md
