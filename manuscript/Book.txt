@@ -4,6 +4,7 @@ mainmatter:
 
   Psychology/README.md
   Psychology/expert-training.md
+  Psychology/obstacles-for-learning.md
 
   Theory/README.md
   Theory/basic-concepts.md
